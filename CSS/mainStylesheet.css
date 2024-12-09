@@ -263,10 +263,10 @@
 #firstGreenContainer, #fourthBeigeContainer,
 #fifthBlueContainerFrame, #sixthPinkFrame{
     padding: 32px;
-    margin-bottom: 25px;
     vertical-align: top;
-    display: inline-block;
     width: 100%;
+    margin: 0 auto;
+    margin-bottom: 25px;
     max-width: 600px;
 }
 #arrow, #redContainerArrow,
