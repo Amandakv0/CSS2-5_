@@ -47,6 +47,8 @@
 }
 
 #contactUsbuTTonFrame{
+    background-color: transparent;
+    border: none;
     display: inline-block;
     vertical-align: middle;
 }
@@ -61,6 +63,7 @@
     margin-left: 120px;
 }
 #contactUsHeader{
+    text-decoration-line: none;
     display: inline-block;
     font-size: 14px;
     color: #FFF;
